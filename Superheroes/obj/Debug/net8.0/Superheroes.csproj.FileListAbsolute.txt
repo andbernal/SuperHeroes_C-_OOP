@@ -1,0 +1,14 @@
+C:\platzi\SUPERHEROEAPP\Superheroes\bin\Debug\net8.0\Superheroes.exe
+C:\platzi\SUPERHEROEAPP\Superheroes\bin\Debug\net8.0\Superheroes.deps.json
+C:\platzi\SUPERHEROEAPP\Superheroes\bin\Debug\net8.0\Superheroes.runtimeconfig.json
+C:\platzi\SUPERHEROEAPP\Superheroes\bin\Debug\net8.0\Superheroes.dll
+C:\platzi\SUPERHEROEAPP\Superheroes\bin\Debug\net8.0\Superheroes.pdb
+C:\platzi\SUPERHEROEAPP\Superheroes\obj\Debug\net8.0\Superheroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\platzi\SUPERHEROEAPP\Superheroes\obj\Debug\net8.0\Superheroes.AssemblyInfoInputs.cache
+C:\platzi\SUPERHEROEAPP\Superheroes\obj\Debug\net8.0\Superheroes.AssemblyInfo.cs
+C:\platzi\SUPERHEROEAPP\Superheroes\obj\Debug\net8.0\Superheroes.csproj.CoreCompileInputs.cache
+C:\platzi\SUPERHEROEAPP\Superheroes\obj\Debug\net8.0\Superheroes.dll
+C:\platzi\SUPERHEROEAPP\Superheroes\obj\Debug\net8.0\refint\Superheroes.dll
+C:\platzi\SUPERHEROEAPP\Superheroes\obj\Debug\net8.0\Superheroes.pdb
+C:\platzi\SUPERHEROEAPP\Superheroes\obj\Debug\net8.0\Superheroes.genruntimeconfig.cache
+C:\platzi\SUPERHEROEAPP\Superheroes\obj\Debug\net8.0\ref\Superheroes.dll
